@@ -435,11 +435,11 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    filter: grayscale(100%);
+    filter: sepia(90%) grayscale(20%) hue-rotate(175deg) saturate(85%);
     transition: filter $TRANSITION-PERIOD linear;
 
     &:hover {
-      filter: grayscale(0%);
+      filter: none;
     }
   }
 
