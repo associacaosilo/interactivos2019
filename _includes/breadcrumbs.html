@@ -1,0 +1,14 @@
+{% case page.category %}
+  {% when 'biofertilizantes' %}{% assign title = "Lab de Biofertilizantes" %}
+  {% when 'fermentados' %}{% assign title = "Fermentados - Cozinha Nômade" %}
+  {% when 'fullcompost' %}{% assign title = "Full Compost" %}
+  {% when 'germinacao' %}{% assign title = "Projeto Germinação" %}
+  {% when 'nguara' %}{% assign title = "Nguara - Abrigo Sustentável" %}
+  {% when 'rotamnesis' %}{% assign title = "Rota-Mnesis" %}
+{% endcase %}
+
+<section class="list-wrapper breadcrumbs-container">
+  <a href="{{ site.baseurl }}/" class="breadcrumb-item">home</a> >
+  <a href=".." class="breadcrumb-item">{{ title }}</a> >
+  <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
+</section>

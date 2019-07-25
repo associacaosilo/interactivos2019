@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {% include head.html %}
+    {% include meta.html %}
+  </head>
+  <body>
+    {% include menu.html %}
+    <div class="main-div">
+      {% include title.html %}
+      <section class="content-text">{{ content }}</section>
+      <section class="list-wrapper">
+        <h2>Projetos:</h2>
+        <div class="home-list">
+          {% assign projets = site.pages | where:"layout", "list" %}
+          {% for projet in projets %}
+            {% assign pCover = site.baseurl | append: '/' | append: projet.cover %}
+            <a class="list-item" href="{{ site.baseurl }}{{ projet.url }}">
+              <div class="list-item-image"
+                   style="background-image: url('{{ pCover }}');">
+                <div class="list-item-title">{{ projet.title }}</div>
+              </div>
+            </a>
+          {% endfor %}
+        </div>
+      </section>
+    </div>
+    {% include footer.html %}
+  </body>
+</html>

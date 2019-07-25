@@ -1,0 +1,16 @@
+<div class="footer">
+  <div class="footer-line">Silo - Arte e Latitude Rural</div>
+  <a class="footer-line" href="mailto:interactivos@silo.org.br" target="_blank">interactivos@silo.org.br</a>
+  <div class="footer-line">
+    {% include social-icons.html %}
+  </div>
+</div>
+
+{% if page.permalink == '/' %}
+  <div class="footer">
+    <div class="footer-line">Apoio:</div>
+    <a href="https://serrapilheira.org/" target="_blank">
+      <div class="footer-line parceira-logo" style="background-image: url('{{ site.baseurl }}/media/images/logos/serrapilheira.png');"></div>
+    </a>
+  </div>
+{% endif %}
