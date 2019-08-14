@@ -1,8 +1,8 @@
 ---
 title: EXEMPLO BIOGAS
-cover: media/images/covers/biogas.jpg
+cover: media/images/covers/biometano.jpg
 noheader: true
-category: biogas
+category: biometano
 swipebox: foo
 ---
 
