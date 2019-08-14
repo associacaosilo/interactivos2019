@@ -3,7 +3,7 @@ title: EXEMPLO FOTOSSINTETICA
 cover: media/images/covers/fotossintetica.jpg
 noheader: true
 category: fotossintetica
-swipebox: foo
+swipebox: fotossintetica
 ---
 
 Texto com ênfase:

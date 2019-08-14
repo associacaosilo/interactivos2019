@@ -3,7 +3,7 @@ title: EXEMPLO ECOS
 cover: media/images/covers/ecos.jpg
 noheader: true
 category: ecos
-swipebox: foo
+swipebox: ecos
 ---
 
 Texto com ênfase:

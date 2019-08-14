@@ -3,7 +3,7 @@ title: EXEMPLO BIOGAS
 cover: media/images/covers/biometano.jpg
 noheader: true
 category: biometano
-swipebox: foo
+swipebox: biometano
 ---
 
 Texto com ênfase:
