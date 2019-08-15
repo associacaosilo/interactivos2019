@@ -11,11 +11,11 @@ people:
     url: 
   - name: Clifford Neves Pinto
     url: mailto:clifford.neves@gmail.com
- - name: Aluizio Neto
+  - name: Aluizio Neto
     url: mailto:aluizioneto@riseup.net
- - name: Fabiana Duffrayer
+  - name: Fabiana Duffrayer
     url: www.causa.cc   
- - name: Carla Boregas
+  - name: Carla Boregas
     url: https://www.instagram.com/a.dama.da.noite
   - name: Anelena Toku
     url: https://www.instagram.com/anelenatoku
