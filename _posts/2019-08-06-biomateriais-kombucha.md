@@ -14,6 +14,6 @@ Se realizaron pruebas de crecimiento con diferentes te y diferentes azucares y l
 
 En base a los resultados se generaron realizaron diversos productos utilizando el material.
 
-[(BAJE LA CARTILLA EXPLICATIVA)] (/media/docs/KOMBUCHA.pdf)
+[[BAJE LA CARTILLA EXPLICATIVA]] (/media/docs/KOMBUCHA.pdf)
 
-[(BAJE LA CARTILLA PARA NIÑOS)] (/media/docs/kombuchaniños.pdf)
+[[BAJE LA CARTILLA PARA NIÑOS]] (/media/docs/kombuchaniños.pdf)
