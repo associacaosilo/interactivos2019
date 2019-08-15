@@ -1,5 +1,5 @@
 ---
-title: biomateriais_miceliais
+title: Miceliais
 cover: media/images/biomateriais/BIOMATERIAIS_MICELIAIS_01.jpg
 noheader: true
 category: biomateriais
