@@ -9,7 +9,7 @@ people:
     url: https://www.investigacoesfotograficas.blogspot.com
   - name: Beatriz Areas
     url: https://www.instagram.com/epigrafart
-  - name:Mariana Zani
+  - name: Mariana Zani
     url: https://www.cargocollective.com/marianazani
   - name: Mariana Gino
     url: https://www.instagram.com/maremariiii
