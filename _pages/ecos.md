@@ -9,8 +9,8 @@ people:
     url: https://www.instagram,com/k_zache
   - name: Fernando Ribeiro
     url: 
-  - name: Clifford
-    url: 
+  - name: Clifford Neves Pinto
+    url: mailto:clifford.neves@gmail.com
  - name: Aluizio Neto
     url: mailto:aluizioneto@riseup.net
  - name: Fabiana Duffrayer
