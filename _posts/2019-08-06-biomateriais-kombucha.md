@@ -1,9 +1,9 @@
 ---
 title: KOMBUCHA
-cover: media/images/biomateriais/BIOMATERIAIS_KOMBUCHA_01.jpg
+cover: media/images/biomateriais/KOMBUCHA_01.jpg
 noheader: true
 category: biomateriais
-swipebox: BIOMATERIAIS_KOMBUCHA
+swipebox: KOMBUCHA
 ---
 
 
