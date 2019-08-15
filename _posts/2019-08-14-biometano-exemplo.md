@@ -44,3 +44,13 @@ exemplo:
 [[TITULO DO LINK]]   
 (ENDEREÇO)           _   /media/docs/nome_do_arquivo.pdf 
 {:target="_blank"}   _   código a inserir ao final para fazer com que o link abra em nova aba
+
+
+VIDEO
+
+!!!ATENÇÃO!!! Confirmar que o link começa com https e não http.
+
+<div class="video-wrapper video-wrapper-16x9">
+<iframe src="https://player.vimeo.com/video/46611303?byline=0&portrait=0" allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+</div>
+
