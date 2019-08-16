@@ -1,6 +1,6 @@
 ---
 title: Cartilha
-cover: media/images/biometano/cartilha0.jpg
+cover: media/images/biometano/cartilha0.jpeg
 noheader: true
 category: biometano
 swipebox: cartilha
