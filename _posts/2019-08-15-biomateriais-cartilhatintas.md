@@ -1,6 +1,6 @@
 ---
 title: Cartilha Tintas
-cover: media/images/biomateriais/cartilhatintas0.png
+cover: media/images/biomateriais/cartilhatintas1.png
 noheader: true
 category: biomateriais
 swipebox: cartilhatintas
