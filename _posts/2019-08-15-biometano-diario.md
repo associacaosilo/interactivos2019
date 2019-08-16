@@ -1,5 +1,5 @@
 ---
-title: Diario
+title: Diário
 cover: media/images/biometano/diario0.jpg
 noheader: true
 category: biometano
