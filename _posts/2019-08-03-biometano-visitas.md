@@ -1,5 +1,5 @@
 ---
-title: Diario
+title: Visitas ao Projeto
 cover: media/images/biometano/visitas0.jpg
 noheader: true
 category: biometano
