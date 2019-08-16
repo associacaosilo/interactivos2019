@@ -1,9 +1,9 @@
 ---
 title: Miceliais
-cover: media/images/biomateriais/BIOMATERIAIS_MICELIAIS_01.jpg
+cover: media/images/biomateriais/BIOMATERIAIS_MICELIAIS_01.jpeg
 noheader: true
 category: biomateriais
-swipebox: biomateriais_miceliais
+swipebox: BIOMATERIAIS_MICELIAIS
 ---
 
 
@@ -19,4 +19,4 @@ Una vez que el sustrato fue colonizado por el hongo, lo cual demoro de 8 a 10 d�
 Se dejo 2 dias el material en los moldes para que siga creciendo con la forma y luego se cocinaron en el horno a 180° durante  a 1 a 2 horas dependiendo el tamaño del contenedor.
 
 
-[(BAJE LA CARTILLA EXPLICATIVA)] (/media/docs/BIOMATERIAIS_MICELIAIS.pdf){:target="_blank"}
+[[BAJE LA CARTILLA EXPLICATIVA]] (/media/docs/BIOMATERIAIS_MICELIAIS.pdf){:target="_blank"}
