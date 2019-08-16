@@ -1,6 +1,6 @@
 ---
 title: Atividades Experimentais UERJ
-cover: media/images/covers/ATIVIDADES_UERJ.jpEg
+cover: media/images/covers/ATIVIDADES_UERJ.jpeg
 noheader: true
 category: biometano
 swipebox: ATIVIDADES_UERJ
