@@ -1,6 +1,6 @@
 ---
 title: Cartilha Micélio
-cover: media/images/biomateriais/cartilhamicelo0.png
+cover: media/images/biomateriais/cartilhamicelio0.png
 noheader: true
 category: biomateriais
 swipebox: cartilhamicelio
