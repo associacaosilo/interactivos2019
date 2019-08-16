@@ -36,23 +36,26 @@ There are two ways to access the device. In both ways, user will be "pi". Standa
    2. The rasp should be logged automatically. 
 
 ## 2. Edit configuration
-There is a configuration file `/home/scriptsEcos/configEcos.ini`. 
-This file can be modified to put: 
-    1. `id` The id of the device.
-    2. `eth_ip` A fixed IP for ethernet. Useful (almost necessary) to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
-    3. `wifi_ip` A fixed IP for wifi.  Also useful to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
-    4. `ecos_recordings_folder_name` Sounds will be recorded in /home/pi/Documents/Grabacoes. If this variable is defined a new folder will be done in Grabacoes 
-    5. GPS coordinates can be fixed via `gps_lon` and `gps_lat`. The idea is to locate the GPS coordinates with a phone or other gps device, and write here the coordinates. This will be place in every file recorded. Therefore every file can be located. 
+There is a configuration file `/home/scriptsEcos/configEcos.ini`. This file can be modified to put: 
+1. `id` The id of the device.
+2. `eth_ip` A fixed IP for ethernet. Useful (almost necessary) to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
+3. `wifi_ip` A fixed IP for wifi.  Also useful to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
+4. `ecos_recordings_folder_name` Sounds will be recorded in /home/pi/Documents/Grabacoes. If this variable is defined a new folder will be done in Grabacoes 
+5. GPS coordinates can be fixed via `gps_lon` and `gps_lat`. The idea is to locate the GPS coordinates with a phone or other gps device, and write here the coordinates. This will be place in every file recorded. Therefore every file can be located. 
+
 Besides in this file, different devices of the RPI can be turn off/on to save energy. If value=1, it will be on, if value=0 it will be off. It is important to be careful since turning off a device such as HDMI, can be problematic to connect the raspberry. 
+
 This system has a security measurement (it has not been totally tested, so be careful): there are some minutes when the RPI inits where everysystem works, so it allows you to change the config file. Right now the ones that are working are (more testing is needed):
   * wifi_on
   * leds_on
   * hdmi_on
 
 ## 3. Create a schedule for recording
- To create a schedule for recording, once connected to the RPI, execute `crontab -e`. This will open a file in "nano" editor. 
- Follow the examples at the end, and write a line in the same way but with the new schedule. 
- Once written press `Ctrl+x` to close. It will ask you to save it. Press `S` and then when asks you about the name of the file just press intro to overwrite the previous one. 
+To create a schedule for recording, once connected to the RPI, execute `crontab -e`. This will open a file in "nano" editor. 
+
+Follow the examples at the end, and write a line in the same way but with the new schedule. 
+
+Once written press `Ctrl+x` to close. It will ask you to save it. Press `S` and then when asks you about the name of the file just press intro to overwrite the previous one. 
 
 
 Texto com ênfase:
