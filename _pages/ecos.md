@@ -14,7 +14,7 @@ people:
   - name: Aluizio Neto
     url: mailto:aluizioneto@riseup.net
   - name: Fabiana Duffrayer
-    url: www.causa.cc   
+    url: http://www.causa.cc
   - name: Carla Boregas
     url: https://www.instagram.com/a.dama.da.noite
   - name: Anelena Toku

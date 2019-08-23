@@ -11,7 +11,7 @@ people:
     url: http://jchcr.myportfolio.com
   - name: Jader Mattos
     url: https://www.instagram.com/____jadermattos____/
-  - name: Jader Mattos
+  - name: Fernanda Tosta
     url: https://fernandatosta.com/
 ---
 
