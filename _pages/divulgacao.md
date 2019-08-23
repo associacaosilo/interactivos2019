@@ -2,7 +2,7 @@
 layout: list
 title: Museu Árvore
 proponent: Marcella Martins, Julia Chacur e Jader Mattos | Colaboradoras Gerais
-cover: media/images/covers/divulgacao.jpg
+cover: media/images/covers/museu.jpeg
 permalink: /divulgacao/
 people:
   - name: Marcella Martins
