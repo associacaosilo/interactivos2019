@@ -21,6 +21,8 @@ people:
     url: https://www.instagram.com/na_amarinho
   - name: Paula Martins
     url: https://www.paulamartinsfotografias.46graus.com
+  - name: Jader Mattos
+    url: https://www.instagram.com/____jadermattos____/
 ---
 
 Como aproveitar o sentimento de encanto gerado pela prática de observar o céu noturno para a construção de conhecimento? O objetivo é investigar e construir uma atividade que posso somar junto à prática de observar o céu noturno com telescópios e/ou planetários móveis. O Projeto Cosmos já trabalha com oficinas de divulgação científica em escolas públicas, e agora queremos cocriar uma imersão em Astronomia aberta ao público livre e que seja empática, acolhedora, encantadora e construtiva.
