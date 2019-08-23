@@ -1,10 +1,12 @@
 ---
 title: Diário
-cover: media/images/biometano/diario0.jpg
+cover: media/images/biometano/capa_diario_capa.jpg
 noheader: true
 category: biometano
 swipebox: diario
 ---
+
+![](/media/images/biometano/capa_diario.jpg)
 
 Este diário descreve o processo experimental de construção de um biodigestor de baixo custo para geração de biogás, e também da construção de um sistema de transformação do biogás em biometano. 
 Tal experimentação foi feita durante o Interactivos?’19, um projeto da Silo – Arte e Latitude Rural com apoio do Instituto Serrapilheira. Trata-se de um laboratório de experimentações desenvolvido na Serrinha do Alambari, município de Resende, Rio de Janeiro – Brasil. Este diário tem como objetivo registrar as ações desenvolvidas no projeto Biometano Rural. As anotações estão em ordem cronológica, de forma que são evidenciados erros e acertos ao longo do processo. Toda as fotos neste registro foram tiradas por integrantes do grupo. Tudo neste documento serve para auxiliar o processo, para que nossas experiências possam vir a ser útil em projetos similares desenvolvidos por outras pessoas. 
