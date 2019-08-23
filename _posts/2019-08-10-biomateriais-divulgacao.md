@@ -1,6 +1,6 @@
 ---
 title: divulgacion
-cover: media/images/biomateriais/divulgacion_01.jpg
+cover: media/images/biomateriais/KOMBUCHA_06.jpg
 noheader: true
 category: biomateriais
 swipebox: divulgacion
