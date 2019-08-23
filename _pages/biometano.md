@@ -17,5 +17,9 @@ people:
     url: http://www.instagram.com/projetosinteseuerj
   - name: Thainara Souza
     url: mailto:thainaragavassi@hotmail.com
+  - name: Paula Martins
+    url: https://www.paulamartinsfotografias.46graus.com
+  - name: Jader Mattos
+    url: https://www.instagram.com/____jadermattos____/
 ---
 O biogás gerado em pequena escala à partir de resíduos compostáveis não é facilmente adaptado em fogões tradicionais devido ao baixo teor de metano e grande concentração de contaminantes. Muitas das tecnologias existentes para upgrade de biogás à biometano apresentam custo elevado e incompatível com as necessidades de um processo residencial de pequena escala. O objetivo da proposta é associar os saberes científicos e o conhecimento popular, usando materiais de baixo custo e fácil aquisição - ou até mesmo resíduos - para a construção de um sistema mais acessível para uso em propriedades rurais.
