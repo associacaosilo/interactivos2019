@@ -3,7 +3,7 @@ title: ECOS user instructions
 cover: media/images/ecos/instructions.JPG
 noheader: true
 category: ecos
-swipebox: ecos
+swipebox: instructions
 ---
 # ECOS - Use instructions
 ECOS is a DIY device to record sound in nature. It is a small computer with a mono microphone and other sensors that can be place anywhere in the woods to record the sound of animals. 
