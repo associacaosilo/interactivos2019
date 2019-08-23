@@ -6,9 +6,9 @@ cover: media/images/covers/divulgacao.jpg
 permalink: /divulgacao/
 people:
   - name: Marcella Martins
-    url: 
+    url: https://medium.com/@marcelamariasouza
   - name: Julia Chacur
-    url: https://www.instagram.com/juliachacur/
+    url: http://jchcr.myportfolio.com
   - name: Jader Mattos
     url: https://www.instagram.com/____jadermattos____/
 ---
