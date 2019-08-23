@@ -1,6 +1,6 @@
 ---
 title: ECOS user instructions
-cover: media/images/ecos/instructions.JPG
+cover: media/images/ecos/instructions.jpg
 noheader: true
 category: ecos
 swipebox: instructions
