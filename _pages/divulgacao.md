@@ -1,13 +1,16 @@
 ---
 layout: list
-title: Projeto Surpresa de Divulgação Científica
-proponent: Cosmonautas Anarquísticos da Esfera da Saúde | Resende, RJ, Brasil
+title: Museu Árvore
+proponent: Marcella Martins, Julia Chacur e Jader Mattos | Colaboradoras Gerais
 cover: media/images/covers/divulgacao.jpg
 permalink: /divulgacao/
 people:
-  - name: Anal Aras
-    url: https://touca.ninja/
-  - name: Lara Sana
-    url: https://touca.ninja/
+  - name: Marcella Martins
+    url: 
+  - name: Julia Chacur
+    url: https://www.instagram.com/juliachacur/
+  - name: Jader Mattos
+    url: https://www.instagram.com/____jadermattos____/
 ---
-\<Colocar texto aqui\>. Aquiiiiiii.
+
+
