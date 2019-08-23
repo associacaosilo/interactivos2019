@@ -23,5 +23,11 @@ people:
     url: https://www.instagram.com/cozinha4ventos
   - name: Paula Martins
     url: https://www.paulamartinsfotografias.46graus.com
+  - name: Marcella Martins
+    url: 
+  - name: Julia Chacur
+    url: https://www.instagram.com/juliachacur/
+  - name: Jader Mattos
+    url: https://www.instagram.com/____jadermattos____/
 ---
 Biofabricação de materiais e produtos de matéria orgânica da Área de Proteção Ambiental da Serrinha do Alambari, Brasil, RJ. A proposta é combinar o processo artesanal de produção de bio-couro e produtos micélicos bio-cultivados, com ferramentas de manufatura digital para processá-los e criar desenhos. Entre essas ferramentas, propõe-se, por exemplo, o uso de termoformagem, impressora 3D, corte a laser, entre outros. O objetivo é gerar novos materiais e avaliar sua possível aplicação em produtos biodegradáveis que contribuam para o cuidado do meio ambiente.
