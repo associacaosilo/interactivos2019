@@ -1,6 +1,6 @@
 ---
 title: Diário
-cover: media/images/biometano/capa_diario_capa.jpg
+cover: media/images/biometano/capa_diario.jpg
 noheader: true
 category: biometano
 swipebox: diario
