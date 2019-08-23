@@ -19,6 +19,10 @@ people:
     url: https://www.instagram.com/a.dama.da.noite
   - name: Anelena Toku
     url: https://www.instagram.com/anelenatoku
+  - name: Paula Martins
+    url: https://www.paulamartinsfotografias.46graus.com
+  - name: Jader Mattos
+    url: https://www.instagram.com/____jadermattos____/
 ---
 
 O meio ambiente possui uma diversidade de linguagens e apresenta uma plasticidade sonora com uma infinidade de melodias que compartilham contraste e resiliência. Por isso Ecos propõe o desenvolvimento de um equipamento de gravação sonora automática para ambientes terrestres - com bom desempenho, replicável e de baixo custo - baseado em um modelo pré-existente. Durante o lab vamos verificar a composição sonora diária de uma localidade e aferir a eficácia do protótipo híbrido desenvolvido a partir das análises dos sinais sonoros em softwares específicos para essa finalidade, teste de estatística básica e a geração de gráficos.
