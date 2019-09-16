@@ -13,6 +13,8 @@ people:
     url: mailto:clifford.neves@gmail.com
   - name: Aluizio Neto
     url: mailto:aluizioneto@riseup.net
+  - name: Chema Blanco
+    url: https://chemablanco.net
   - name: Fabiana Duffrayer
     url: http://www.causa.cc
   - name: Carla Boregas
