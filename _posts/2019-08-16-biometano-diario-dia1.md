@@ -3,7 +3,7 @@ title: Diário _ DIA 1
 cover: media/images/biometano/capa_diario1.jpg
 noheader: true
 category: biometano
-swipebox: dia1_diario
+swipebox: diario_dia1
 ---
 
 #1ºdia – 05/08/2019 – Segunda-Feira 
@@ -20,7 +20,7 @@ A ideia inicial é desenvolver um biodigestor usual de em torno de 200L, para is
 Pegamos a bombona, e como era de uso industrial, foi necessário realizar uma higienização da mesma, por meio de água e sabão de coco. 
 As medidas da bombona estão representadas na tabela abaixo:
   
-*Medidas Bombona*
+*__Medidas Bombona__*
 *Diâmetro(cm)*	57
 *Raio(cm)*	28,5
 *Volume(L)*	224,44
