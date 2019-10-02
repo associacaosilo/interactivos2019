@@ -13,7 +13,8 @@ Os projetos foram realizados com a mentoria de cientistas e dilvugadores da ciê
 * **Katemari Rosa**
 * **Marina Hirota**
 * **Yurij Castellfranchi**
-* **Pesquisadores do OAMA - Observatório de Aves da Mantiqueira** (Luiza Figueira, Pedro Martins, Raquel Justo)
+* **Pesquisadores do OAMA - Observatório de Aves da Mantiqueira**<br>
+(Luiza Figueira, Pedro Martins, Raquel Justo)
 
 Mentoria técnica: Fernado Rabelo.
     

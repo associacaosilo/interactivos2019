@@ -37,6 +37,6 @@ ECOS é um módulo de gravação sonora, um dispositivo DIY para gravar sons em 
 Idealizado para uso em rede ou individual, o ECOS tem grande potencial como ferramenta de estudos de paisagem sonora, bioacústica, monitoramento de impacto, identificação de áreas prioritárias de preservação, identificação e monitoramento de espécies, etc. Hoje, ele é nosso principal aliado no desenvolvimento de projetos ligados a estudos sonoros e muito em breve estaremos construindo um protótipo avançado.
 
 
-** Agradecimentos especiais:**
+**Agradecimentos especiais:**
 
 Lab Ideias FAT-UERJ, Fronte Violeta, Sara Lana, Luísa Ritter, Felix Blume, Bar da Cinda
