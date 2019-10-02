@@ -1,6 +1,6 @@
 ---
 title: Vídeo do processo
-cover: media/images/ecos/processo.jpg
+cover: media/images/ecos/processo00.jpg
 noheader: true
 category: ecos
 swipebox: processo
