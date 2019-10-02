@@ -437,7 +437,7 @@ a {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    filter: sepia(90%) grayscale(20%) hue-rotate(175deg) saturate(85%);
+    filter: sepia(90%) grayscale(20%) hue-rotate(325deg) saturate(85%);
     transition: filter $TRANSITION-PERIOD linear;
 
     &:hover {
