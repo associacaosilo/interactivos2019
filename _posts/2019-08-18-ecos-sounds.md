@@ -10,7 +10,7 @@ Ouça os sons gravados durante o Interactivos'19 - Ciência na Roça!
 
 
 Som gravado pelo aparato prototipado **Ecos**:
-<div><iframe src="https://w.soundcloud.com/player/?url=https://soundcloud.com/user-792367643/escutarindividuos-observarobjetos&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe></div>
+<iframe src="https://w.soundcloud.com/player/?url=https://soundcloud.com/user-792367643/escutarindividuos-observarobjetos&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true" width="100%" height="300" frameborder="no" scrolling="no"></iframe>
 
       
 Som gravado por **Félix Blume** em aparato para referência:
