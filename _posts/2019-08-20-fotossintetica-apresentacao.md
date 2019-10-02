@@ -1,6 +1,6 @@
 ---
 title: BARALHO DA FOTOTIPIA
-cover: media/images/fotossintetica/apresentacao00.jpg
+cover: media/images/fotossintetica/apresentacao_00.jpg
 noheader: true
 category: fotossintetica
 swipebox: apresentacao_
