@@ -1,9 +1,9 @@
 ---
 title: Considerações Finais
-cover: media/images/biometano/consideracoes_0.jpg
+cover: media/images/biometano/cartilha_5.jpg
 noheader: true
 category: biometano
-swipebox: consideracoes
+swipebox: cartilha_5
 ---
 
 
