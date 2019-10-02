@@ -1,5 +1,5 @@
 ---
-title: Constelações de Ferramentas
+title: Zine
 cover: media/images/cosmos/zine_final1.jpg
 noheader: true
 category: cosmos
