@@ -7,7 +7,8 @@ swipebox: zine_
 ---
 
 
-[FAÇA AQUI O DOWNLOAD DE SUA ZINE](/2019/media/docs/zine_cosmos.pdf)
+[FAÇA AQUI O DOWNLOAD DE SUA ZINE](/2019/media/docs/zine_cosmos.pdf){:target="_blank"}
+
 
 
 
