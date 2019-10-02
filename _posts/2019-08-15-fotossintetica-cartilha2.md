@@ -1,6 +1,6 @@
 ---
 title: CARTILHA GERAL PARA FOTOTIPIAS
-cover: media/images/fotossintetica/cartilha2_00.png
+cover: media/images/fotossintetica/cartilha2_00.jpeg
 noheader: true
 category: fotossintetica
 swipebox: cartilha2_0
