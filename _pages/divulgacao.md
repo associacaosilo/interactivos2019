@@ -16,3 +16,6 @@ people:
 ---
 
 
+Em formato mínimo, móvel e interativo, foi pensado de forma a despertar curiosidade e sensações nos visitantes.
+
+O Museu Árvore é fruto de uma experimentação em divulgação científica. Surgiu da inquietação dos colaboradores, que perceberam na arte a melhor forma de comunicar e falar sobre o conhecimento produzido no Interactivos?'19. Agora ele fica na Serrinha onde - tomara! - pode ser transformado.
