@@ -1,9 +1,9 @@
 ---
 title: Materiais Utilizados
-cover: media/images/biometano/materiais_0.jpg
+cover: media/images/biometano/diario_dia1_03.jpg
 noheader: true
 category: biometano
-swipebox: materiais
+swipebox: 
 ---
 
 1º biodigestor – galão de 20 litros em batelada
