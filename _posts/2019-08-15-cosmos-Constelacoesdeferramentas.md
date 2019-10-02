@@ -1,9 +1,9 @@
 ---
 title: Constelações de Ferramentas
-cover: media/images/cosmos/cosmos_15_08_1.jpg
+cover: media/images/cosmos/contelacao_lanterna.jpg
 noheader: true
 category: cosmos
-swipebox: cosmos_15_08_1
+swipebox: contelacao_
 ---
 
 
