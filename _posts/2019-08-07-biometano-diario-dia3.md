@@ -1,6 +1,6 @@
 ---
 title: Diário _ DIA 3
-cover: media/images/biometano/diario_dia3_0.jpg
+cover: media/images/biometano/diario_dia3_00.jpg
 noheader: true
 category: biometano
 swipebox: diario_dia3

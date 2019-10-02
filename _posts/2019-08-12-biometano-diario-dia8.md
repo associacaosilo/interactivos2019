@@ -1,6 +1,6 @@
 ---
 title: Diário _ DIAS 7 e 8
-cover: media/images/biometano/diario_dia8_0.jpg
+cover: media/images/biometano/diario_dia8_00.jpg
 noheader: true
 category: biometano
 swipebox: diario_dia8

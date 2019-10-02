@@ -1,9 +1,9 @@
 ---
 title: Diário _ DIA 10
-cover: media/images/biometano/diario_dia10_0.jpg
+cover: media/images/biometano/ATIVIDADES_UERJ09.10.jpeg
 noheader: true
 category: biometano
-swipebox: diario_dia10
+swipebox: ATIVIDADES_UERJ
 ---
 
 *10º dia – 14/08/2019 – Quarta-Feira* 

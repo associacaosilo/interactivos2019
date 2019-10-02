@@ -16,3 +16,5 @@ Nesse projeto foram elaborados dois biodigestores de escala experimental (20 L) 
   
 Também foram realizados dois projetos para purificação do gás produzido com materiais de fácil acesso.  Foi produzida uma cartilha com instruções sobre como montar o biodigestor e o sistema de purificação, que se encontra no final deste diário, juntamente com o link para acesso online. Em outro post em nossa documentação indicamos os materiais utilizados no projeto.
 
+  
+[[CLIQUE AQUI PARA BAIXAR UM PDF COM O DIÁRIO COMPLETO]] (/media/docs/diário_biodigestor.pdf){:target="_blank"}
