@@ -16,7 +16,7 @@ Os projetos foram realizados com a mentoria de cientistas e dilvugadores da ciê
 * **Pesquisadores do OAMA - Observatório de Aves da Mantiqueira**<br>
 (Luiza Figueira, Pedro Martins, Raquel Justo)
 
-Mentoria técnica: Fernado Rabelo.
+Mentoria técnica: Fernando Rabelo.
     
 [CONFIRA AQUI MAIS FOTOS DO INTERACTIVOS'?19 - Ciência na Roça](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
 
