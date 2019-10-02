@@ -8,15 +8,15 @@ A Silo - Arte e Latitude Rural, com o apoio do [Instituto Serrapilheira](https:/
   
 Os projetos foram realizados com a mentoria de cientistas e dilvugadores da ciência:
 
-Carla Almeida
-Guilherme Longo
-Katemari Rosa
-Marina Hirota
-Yurij Castellfranchi
-Pesquisadores do OAMA - Observatório de Aves da Mantiqueira (Luiza Figueira, Pedro Martins, Raquel Justo)
+* **Carla Almeida**
+* **Guilherme Longo**
+* **Katemari Rosa**
+* **Marina Hirota**
+* **Yurij Castellfranchi**
+* **Pesquisadores do OAMA - Observatório de Aves da Mantiqueira** (Luiza Figueira, Pedro Martins, Raquel Justo)
 
 Mentoria técnica: Fernado Rabelo.
     
-[CONFIRA AQUI MAIS FOTOS DO INTERACTIVOS'?19- Ciência na Roça](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
+[CONFIRA AQUI MAIS FOTOS DO INTERACTIVOS'?19 - Ciência na Roça](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
 
 
