@@ -34,15 +34,15 @@ people:
 Biofabricação de materiais e produtos de matéria orgânica da Área de Proteção Ambiental da Serrinha do Alambari, Brasil, RJ. A proposta é combinar o processo artesanal de produção de bio-couro e produtos micélicos bio-cultivados, com ferramentas de manufatura digital para processá-los e criar desenhos. Entre essas ferramentas, propõe-se, por exemplo, o uso de termoformagem, impressora 3D, corte a laser, entre outros. O objetivo é gerar novos materiais e avaliar sua possível aplicação em produtos biodegradáveis que contribuam para o cuidado do meio ambiente.
 
 
-*Links externos para o projeto:*
+# Links externos para o projeto:
   
-[repositório do projeto no github ](https://github.com/biofabsilo/biofab/wiki){:target="_blank"}
+[Repositório do projeto no github ](https://github.com/biofabsilo/biofab/wiki){:target="_blank"}
   
-[página do projeto](https://biofabsilo.wixsite.com/website){:target="_blank"}
+[Página do projeto](https://biofabsilo.wixsite.com/website){:target="_blank"}
   
-[canal do youtube](https://www.youtube.com/channel/UC0DuPAl8HkXWLa80pGNmyeQ/videos?view_as=subscriber){:target="_blank"}  
+[Canal do youtube](https://www.youtube.com/channel/UC0DuPAl8HkXWLa80pGNmyeQ/videos?view_as=subscriber){:target="_blank"}  
   
-[MAPA DE BIOFABS](http://umap.openstreetmap.fr/es/map/anonymous-edit/355463:s8bZLLmfHoGaJQrhjjd3fOq-u8c){:target="_blank"}
+[Mapa de biofabs](http://umap.openstreetmap.fr/es/map/anonymous-edit/355463:s8bZLLmfHoGaJQrhjjd3fOq-u8c){:target="_blank"}
 
 
-*Contato:* biofabsilo@gmail.com
+**Contato:** biofabsilo@gmail.com
