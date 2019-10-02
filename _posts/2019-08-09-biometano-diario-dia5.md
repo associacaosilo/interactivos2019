@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia5
 ---
 
-*5º dia – 09/08/2019 – Sexta-Feira*
+**5º dia – 09/08/2019 – Sexta-Feira**
   
 Preparamos o que seria apresentado para as crianças da escola. Fizemos a apresentação do projeto na parte da manhã.
 Alimentamos o 2º biodigestor, deixamos no sol, e na parte da noite colocamos no banho de aquecimento. Alimentamos em torno de 15 litros de matéria orgânica e esterco. 

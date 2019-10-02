@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia1
 ---
 
-*1ºdia – 05/08/2019 – Segunda-Feira*
+**1ºdia – 05/08/2019 – Segunda-Feira**
   
 Nosso objetivo era fazer um biodigestor menor, por isso utilizamos um galão d’água de 20 litros. Para que não haja entrada de luz, que prejudica o processo, pintamos com spray de tinta preta multiuso todo o galão. 
 Para colocar os resíduos dentro do galão, usamos um cano de PVC para esgoto de 40 mm com 65 cm de comprimento. Fizemos uma abertura nos dois lados de uma das extremidades do cano para que a matéria orgânica escoe melhor. Fazendo assim, e, posteriormente, colocando o cano encostado no fundo da garrafa, ele fica mais estabilizado e também devidamente apoiado. 

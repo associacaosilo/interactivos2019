@@ -6,7 +6,7 @@ category: biometano
 swipebox: ATIVIDADES_UERJ
 ---
 
-*10º dia – 14/08/2019 – Quarta-Feira* 
+**10º dia – 14/08/2019 – Quarta-Feira**
   
 Toda a noite anterior foi chuvosa e hoje o dia amanheceu muito fechado, chovendo e nublado. Com isso, ocorreu uma queda brusca na temperatura, se fazendo necessário deixar o 1º biodigestor dentro da cozinha. 
 Fomos até os laboratórios de Química da UERJ, em Resende, para realizar análises dos gases e elaborar propostas experimentais para serem apresentadas nas escolas. Nesses testes, vamos descobrir experimentos para identificação do pH do meio e detectar CO2. Esses experimentos vamos testar o uso da semente da juçara como indicador de ph, pois existe em abundância na serrinha do Alambari, para a análise do líquido do biodigestor.

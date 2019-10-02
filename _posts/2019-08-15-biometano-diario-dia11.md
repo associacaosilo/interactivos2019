@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia11
 ---
 
-*11º dia – 16/12/2019 – Quinta-Feira*
+**11º dia – 16/12/2019 – Quinta-Feira**
   
 Listamos todos os materiais necessários para o desenvolvimento dos três biodigestores.
 Tentamos desentupir o 1º biodigestor, mas percebemos que o problema pra não estar saindo pela torneira é o fato da matéria estar muito densa. 

@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia3
 ---
 
-*3º dia – 07/08/2019 – Quarta-Feira*
+**3º dia – 07/08/2019 – Quarta-Feira**
   
 Construímos o sistema de alimentação do 2º biodigestor. O galão ficará dentro de um isopor, e, por meio de uma bomba de aquário, iremos recircular uma água que será aquecida em um banho de água quente. O intuito deste procedimento é manter a temperatura alta para favorecer o processo de formação do biogás, e também ter mais controle sobre esse processo.
 Pontuamos, que esse não é um procedimento viável em um nível de aplicação, pois há um gasto energético para se gerar gás, podendo até mesmo, ter um balanço de energia negativa no fim das contas. Objetivo desse experimento foi produzir o biogás o mais rapidamente possível para testá-lo no sistema de upgrade.

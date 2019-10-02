@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia2
 ---
 
-*2º dia – 06/08/2019 – Terça-Feira*
+**2º dia – 06/08/2019 – Terça-Feira**
 
 Nesse dia alimentamos o 1º digestor e foi desenvolvido um biodigestor continuo com a alteração do método de saída. O objetivo é termos dois experimentos para comparar os resultados. Para o novo método será adotado um sistema de sifão. 
 Começamos o procedimento de alimentar o 1º biodigestor. Foi coletado o lixo orgânico, separadamente, e deste lixo, retiramos as cascas de frutas cítricas, cebola e alho, porque eles podem afetar o pH do meio. Também retiramos alguns resíduos que estavam em tamanhos muito grandes, e podiam danificar o aparelho triturador e entupir alguma encanação.

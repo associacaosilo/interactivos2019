@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia4
 ---
 
-*4º dia – 08/08/2019 – Quinta-Feira*
+**4º dia – 08/08/2019 – Quinta-Feira**
 
 Percebemos que o 1º biodigestor gerou mais gás em relação ao dia anterior, percebendo que a boia estava mais inflada.
 No 2º biodigestor começou a entrar água no galão por causa do sistema de aquecimento. Os canos de saída não estavam vedados. A água vazou por cima e pelos canos de saída. Também percebemos que o cano de saída também estava entupido pelo acumulo de matéria e a pasta muito densa.

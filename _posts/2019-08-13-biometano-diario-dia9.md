@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia9
 ---
 
-*9º dia – 13/08/2019 – Terça-Feira*
+**9º dia – 13/08/2019 – Terça-Feira**
   
 Percebemos que devido ao controle de temperatura do 2º biodigestor, a produção de biogás tem sido mais efetiva. 
 Foi levado uma amostra do que já coletamos de biogás para ser analisado no laboratório da UERJ – Resende, onde serão feitos testes e análises.

@@ -6,7 +6,7 @@ category: biometano
 swipebox: diario_dia6
 ---
 
-*6º dia – 10/08/2019 - Sábado*
+**6º dia – 10/08/2019 - Sábado**
   
 Percebemos a formação de gás no 2º biodigestor, que foi recolhido em uma boia. Notou-se que a formação de gás ocorre de maneira mais rápida neste, do que no 1º biodigestor, devido a temperatura mais controlada.
 Em relação ao 1º biodigestor, decidimos por colocar mais esterco, para acelerar o processo. Porém, devido a colocação de uma tela na torneira de saída, ocasionou o entupimento.
