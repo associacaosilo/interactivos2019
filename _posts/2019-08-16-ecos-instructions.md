@@ -36,7 +36,7 @@ There are two ways to access the device. In both ways, user will be "pi". Standa
    2. The rasp should be logged automatically. 
 
 ## 2. Edit configuration
-There is a configuration file `/home/scriptsEcos/configEcos.ini`. This file can be modified to put: 
+Modify the `configEcos.ini` files in the `/home/scriptsEcos` directory to include the following:
 1. `id` The id of the device.
 2. `eth_ip` A fixed IP for ethernet. Useful (almost necessary) to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
 3. `wifi_ip` A fixed IP for wifi.  Also useful to access via SSH. If field is empty, RPI will work with DHCP (automatic IP).
