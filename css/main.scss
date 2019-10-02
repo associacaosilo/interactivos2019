@@ -365,6 +365,9 @@ a {
     display: block;
     width: 100%;
   }
+  ul, ol {
+    padding-inline-start: 16px;
+  }
 }
 
 .project-list {

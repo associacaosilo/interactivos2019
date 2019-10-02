@@ -1,6 +1,6 @@
 ---
 title: Espectros Gerados
-cover: media/images/ecos/espectrogramas00.jpg
+cover: media/images/ecos/espectrograma00.jpg
 noheader: true
 category: ecos
 swipebox: espectrograma
