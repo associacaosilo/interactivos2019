@@ -1,6 +1,6 @@
 ---
 layout: list
-title: Imersão em Astronomia e Contato com o Céu
+title: Constelações de ferramentas para conexão com o Céu
 proponent: Projeto Cosmos | Manaus, AM, Brasil
 cover: media/images/covers/cosmos.jpg
 permalink: /cosmos/

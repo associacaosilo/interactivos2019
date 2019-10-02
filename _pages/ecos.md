@@ -7,7 +7,9 @@ permalink: /ecos/
 people:
   - name: Keila Zaché
     url: https://www.instagram.com/k_zache
-  - name: Fernando Ribeiro
+  - name: Fabiana Duffrayer
+    url: http://www.causa.cc
+  - name: Fernando Rabello
     url: 
   - name: Clifford Neves Pinto
     url: mailto:clifford.neves@gmail.com
@@ -27,4 +29,14 @@ people:
     url: https://www.instagram.com/____jadermattos____/
 ---
 
-O meio ambiente possui uma diversidade de linguagens e apresenta uma plasticidade sonora com uma infinidade de melodias que compartilham contraste e resiliência. Por isso Ecos propõe o desenvolvimento de um equipamento de gravação sonora automática para ambientes terrestres - com bom desempenho, replicável e de baixo custo - baseado em um modelo pré-existente. Durante o lab vamos verificar a composição sonora diária de uma localidade e aferir a eficácia do protótipo híbrido desenvolvido a partir das análises dos sinais sonoros em softwares específicos para essa finalidade, teste de estatística básica e a geração de gráficos.
+
+A paisagem sonora do meio ambiente possui tamanha diversidade de linguagens e plasticidade, que apresenta uma infinidade de melodias que compartilham contraste e resiliência.
+
+ECOS é um módulo de gravação sonora, um dispositivo DIY para gravar sons em ambientes naturais ou urbanos de maneira autônoma. Com seu primeiro protótipo desenvolvido durante o Interactivos’19: Ciência na Roça, o aparato é formado por um pequeno computador onde estão acoplados microfone, sensor de temperatura e umidade, gps e câmera com sensores ultra-som e infravermelho.
+
+Idealizado para uso em rede ou individual, o ECOS tem grande potencial como ferramenta de estudos de paisagem sonora, bioacústica, monitoramento de impacto, identificação de áreas prioritárias de preservação, identificação e monitoramento de espécies, etc. Hoje, ele é nosso principal aliado no desenvolvimento de projetos ligados a estudos sonoros e muito em breve estaremos construindo um protótipo avançado.
+
+
+** Agradecimentos especiais:**
+
+Lab Ideias FAT-UERJ, Fronte Violeta, Sara Lana, Luísa Ritter, Felix Blume, Bar da Cinda
