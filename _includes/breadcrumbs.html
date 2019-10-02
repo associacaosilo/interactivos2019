@@ -1,14 +1,14 @@
 {% case page.category %}
-  {% when 'biofertilizantes' %}{% assign title = "Lab de Biofertilizantes" %}
-  {% when 'fermentados' %}{% assign title = "Fermentados - Cozinha Nômade" %}
-  {% when 'fullcompost' %}{% assign title = "Full Compost" %}
-  {% when 'germinacao' %}{% assign title = "Projeto Germinação" %}
-  {% when 'nguara' %}{% assign title = "Nguara - Abrigo Sustentável" %}
-  {% when 'rotamnesis' %}{% assign title = "Rota-Mnesis" %}
+  {% when 'biometano' %}{% assign title = "BIOMETANO" %}
+  {% when 'biomateriais' %}{% assign title = "BIOMATERIAIS" %}
+  {% when 'divulgacao' %}{% assign title = "MUSEU ÁRVORE" %}
+  {% when 'cosmos' %}{% assign title = "COSMOS" %}
+  {% when 'fotossintetica' %}{% assign title = "FOTOSSINTÉTICAS" %}
+  {% when 'ecos' %}{% assign title = "ECOS" %}
 {% endcase %}
 
 <section class="list-wrapper breadcrumbs-container">
-  <a href="{{ site.baseurl }}/" class="breadcrumb-item">home</a> >
+  <a href="{{ site.baseurl }}/" class="breadcrumb-item">HOME</a> >
   <a href=".." class="breadcrumb-item">{{ title }}</a> >
   <span class="breadcrumb-item breadcrumb-selected">{{ page.title }}</span>
 </section>
