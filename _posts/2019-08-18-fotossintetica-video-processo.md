@@ -1,5 +1,5 @@
 ---
-title: BARALHO DA FOTOTIPIA
+title: VÍDEO DO PROCESSO
 cover: media/images/fotossintetica/processo.jpg
 noheader: true
 category: fotossintetica

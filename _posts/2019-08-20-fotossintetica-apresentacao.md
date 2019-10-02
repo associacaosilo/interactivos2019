@@ -1,5 +1,5 @@
 ---
-title: BARALHO DA FOTOTIPIA
+title: APRESENTAÇÃO FINAL
 cover: media/images/fotossintetica/apresentacao_00.jpg
 noheader: true
 category: fotossintetica

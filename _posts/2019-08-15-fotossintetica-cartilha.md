@@ -1,5 +1,5 @@
 ---
-title: CARTILHA DA FOTOTIPIA
+title: CARTILHA PARA COLETA DE FOLHAS
 cover: media/images/fotossintetica/cartilha00.png
 noheader: true
 category: fotossintetica
