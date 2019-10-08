@@ -18,6 +18,6 @@ Os projetos foram realizados com a mentoria de cientistas e dilvugadores da ciê
 
 Mentoria técnica: Fernando Rabelo.
     
-[CONFIRA AQUI MAIS FOTOS DO INTERACTIVOS'?19 - Ciência na Roça](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
+[CONFIRA AQUI MAIS FOTOS DO INTERACTIVOS?'19 - Ciência na Roça](https://www.flickr.com/photos/184616193@N07/albums/with/72157711069333713){:target="_blank"}
 
 
