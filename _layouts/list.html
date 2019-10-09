@@ -26,9 +26,10 @@
           {% for post in posts %}
             {% assign pCover = site.baseurl | append: '/' | append: post.cover %}
             <a class="list-item" href="{{ site.baseurl }}{{ post.url }}">
-              <div class="list-item-image" style="background-image: url('{{ pCover }}');">
-                <div class="list-item-title">{{ post.title }}</div>
-              </div>
+              <div class="list-item-image hover-contrast"
+                   style="background-image: url('{{ pCover }}');"></div>
+              <div class="tint-overlay"></div>
+              <div class="list-item-title">{{ post.title }}</div>
             </a>
           {% endfor %}
         </div>
