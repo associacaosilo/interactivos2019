@@ -1,6 +1,6 @@
 ---
 title: CONSTRUINDO O MUSEU
-cover: media/images/divulgacao/museu5.jpeg
+cover: media/images/divulgacao/museu.jpeg
 noheader: true
 category: divulgacao
 swipebox: museu

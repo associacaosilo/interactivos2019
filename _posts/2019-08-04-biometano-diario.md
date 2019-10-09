@@ -3,7 +3,7 @@ title: Diário
 cover: media/images/biometano/capa_diario.jpg
 noheader: true
 category: biometano
-swipebox: diario
+swipebox: capa_diario
 ---
 
 ![](/media/images/biometano/capa_diario.jpg)

@@ -3,7 +3,7 @@ title: Zine
 cover: media/images/cosmos/zine_final1.jpg
 noheader: true
 category: cosmos
-swipebox: zine_
+swipebox: zine_final
 ---
 
 

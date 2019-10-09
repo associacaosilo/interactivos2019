@@ -3,7 +3,7 @@ title: Diário _ DIA 1
 cover: media/images/biometano/diario_dia1_00.jpg
 noheader: true
 category: biometano
-swipebox: diario_dia1
+swipebox: diario_dia1_
 ---
 
 **1ºdia – 05/08/2019 – Segunda-Feira**
