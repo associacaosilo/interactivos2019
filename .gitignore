@@ -5,5 +5,6 @@ public/
 .deploy*/
 _site/
 .sass-cache/
+.jekyll-cache/
 Gemfile
 Gemfile.lock

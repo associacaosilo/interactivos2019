@@ -1,11 +1,11 @@
 function showMenuMobile() {
-  document.getElementById('menu-retratil-mobile').classList.remove("menu-hide");
-  document.getElementById('menu-retratil-mobile').classList.add("menu-show");
+  document.getElementById('silo-menu-retratil').classList.remove("menu-hide");
+  document.getElementById('silo-menu-retratil').classList.add("menu-show");
 }
 
 function hideMenuMobile() {
-  document.getElementById('menu-retratil-mobile').classList.remove("menu-show");
-  document.getElementById('menu-retratil-mobile').classList.add("menu-hide");
+  document.getElementById('silo-menu-retratil').classList.remove("menu-show");
+  document.getElementById('silo-menu-retratil').classList.add("menu-hide");
 }
 
 document.getElementById('show-menu-mobile').onclick = showMenuMobile;
