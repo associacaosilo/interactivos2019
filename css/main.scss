@@ -125,7 +125,7 @@ a {
     vertical-align: middle;
     color: $MENU-TEXT-COLOR;
     &:hover {
-      color: $MENU-TEXT-COLOR-HOVER;
+      color: $MENU-TEXT-HOVER-COLOR;
     }
   }
 }
@@ -222,7 +222,7 @@ a {
   }
 
   &:hover {
-    color: $MENU-TEXT-COLOR-HOVER;
+    color: $MENU-TEXT-HOVER-COLOR;
   }
 }
 
@@ -233,7 +233,7 @@ a {
 
   color: $MENU-TEXT-COLOR;
   &:hover {
-    color: $MENU-TEXT-COLOR-HOVER;
+    color: $MENU-TEXT-HOVER-COLOR;
   }
 }
 
