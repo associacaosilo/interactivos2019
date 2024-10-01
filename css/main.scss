@@ -138,27 +138,6 @@ a {
   list-style-type: none;
 }
 
-.menu-item {
-  padding: 0;
-  font-size: $MENU-ITEM-SIZE;
-  font-weight: normal;
-  color: $MENU-TEXT-COLOR;
-  text-transform: none;
-  display: inline;
-
-  @include media-query(DESKTOP) {
-    font-size: $MENU-ITEM-SIZE;
-  }
-
-  &:visited, a:visited {
-    color: $MENU-TEXT-COLOR;
-  }
-
-  &:hover {
-    color: $MENU-TEXT-HOVER-COLOR;
-  }
-}
-
 .menu-icon {
   font: normal 1.5rem $FONT-MENU;
   cursor: pointer;
